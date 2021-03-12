@@ -1,6 +1,7 @@
 {
 	"name": "foreach-await",
 	"version": "1.1.0",
+	"description": "A very simple function to use `forEach` in an asynchronous function and with `await`.",
 	"main": "dist/cjs/index.js",
 	"module": "dist/index.js",
 	"types": "dist/index.d.ts",
