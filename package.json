@@ -29,6 +29,15 @@
 		"LICENSE",
 		"dist/"
 	],
+	"keywords": [
+		"foreach",
+		"async foreach",
+		"for each",
+		"await foreach",
+		"await for each",
+		"iteration",
+		"iterable"
+	],
 	"prettier": {
 		"useTabs": true,
 		"tabWidth": 4,
